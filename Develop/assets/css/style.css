@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*set header padding,font, background-color,and fornt color*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
-
+/*set nav bar padding, margin,float to right,font and font size*/
 .nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,12 +32,12 @@ h1 {
     font-size: 20px;
 }
 
-li {
+.nav-li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
+.nav-a {
     color: #ffffff;
     text-decoration: none;
 }
