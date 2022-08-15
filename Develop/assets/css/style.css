@@ -31,12 +31,12 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*set nav bar list in a line*/
 .nav-li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*set nav a tag*/
 .nav-a {
     color: #ffffff;
     text-decoration: none;
@@ -54,7 +54,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*set content section photoes position*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,7 +70,26 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*refactor contenct section descrip, img,h2*/
+.descrip {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
+.descrip img {
+    max-height: 200px;
+}
+
+.descrip h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*refactor benefits section, benefit, title, img*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -98,26 +117,9 @@ p {
     max-width: 150px;
 }
 
-.descrip {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.descrip img {
-    max-height: 200px;
-}
-
-.descrip h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 
-
+/*add footer section*/
 .footer {
     padding: 30px;
     clear: both;
