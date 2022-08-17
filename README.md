@@ -21,4 +21,4 @@ When you view the title element, you find a concise, descriptive title: seo.
 
 Link: https://xiaojing168jmg168.github.io/module-1--challenge/
 
-screenshot: 
+screenshot: ![image](https://{courses.bootcampspot.com/courses/1993/files/1996829/preview})
