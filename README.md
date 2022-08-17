@@ -6,13 +6,13 @@ SO THAT our own site is optimized for search engines
 
 
 When you view the source code, you find the semantic HTML elements.
-Examples are: <header>, <main>, and <footer>. The <main> tag has two <section>: the first is <content>, the second is <benefits>.
+Examples are: header, main, and footer. The main tag has two section: the first is content, the second is benefits.
 
 When you view the structure of the HTML elements, you will find those elements follow a logical structure independent of styling and positioning.
-For example: we have <nav> in <header> and we style the <nav> in css. We also have both an unorder list and links in the nav. So we are styling the nav-li class and nav-a class.
+For example: we have nav in header and we style the nav in css. We also have both an unorder list and links in the nav. So we are styling the nav-li class and nav-a class.
 
 When you view the image attributes, you will find accessible alt attributes.
-Example: our background image (<div class="hero" role="img" aria-label="{background-image}"></div>)
+Example: our background image (class="hero" role="img" aria-label="{background-image}")
 or: our online reputation management image(alt="online reputation management")
 
 When you view the heading attributes, they fall in sequential order.
